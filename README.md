@@ -30,7 +30,7 @@ There are many ways to get plugins for Infinite Yield, however, Infinite Market 
 Here's why you should use Infinite Market:
 * Installing plugins has never been easier. You can save a lot of time using Infinite Market.
 * Plugins are added and stored in the cloud, meaning it easy for us to add more plugins to the catalog.
-* Infinite Marekt is extremly simple to use.
+* Infinite Market is extremly simple to use.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
