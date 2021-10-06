@@ -75,14 +75,3 @@ Execute the script then go to Catalog. Browse the plugins and click download to 
 If you'd like your plugin added to Infinite Store, DM Cy. He is at the top of the server with the Owner Role.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
