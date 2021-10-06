@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CyOfficial/InfiniteMarketClient/main/">
-    <img src="images/logol.png" alt="Logo" width="120" height="120">
+    <img src="images/logol.png" alt="Logo" width="140" height="120">
   </a>
 
   <h3 align="center">Infinite Market</h3>
