@@ -14,7 +14,7 @@
   <p align="center">
     A fast, easy, and simple plugin marketplace for Infinite Yield
     <br />
-    <a href="https://www.discord.gg/AnrgW2Pmq8"><strong>Join The Discord Server »</strong></a>
+    <a href="https://discord.gg/ADkaX6jNfz"><strong>Join The Discord Server »</strong></a>
     <br />
     <br />
   </p>
