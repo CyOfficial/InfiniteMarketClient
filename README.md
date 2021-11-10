@@ -43,7 +43,7 @@ Here's why you should use Infinite Market:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To use Infinite Market, join the Discord server. (The invite link is at the top of this document.) Go to bot-commands and use >getscript.
+To use Infinite Market, join the Discord server. (The invite link is at the top of this document.) Go to bot-commands and use the slash command getscript.
 
 Execute the script then go to Catalog. Browse the plugins and click download to install a plugin. That's it! It's that simple!
 
@@ -54,6 +54,6 @@ Execute the script then go to Catalog. Browse the plugins and click download to 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-If you'd like your plugin added to Infinite Store, DM Cy. He is at the top of the server with the Owner Role.
+If you'd like your plugin added to Infinite Store, DM Cy or Toon. They're at the top of the server with the Owner Role.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
